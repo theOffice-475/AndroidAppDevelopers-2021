@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">InternshipProgram</string>
+    <string name="get_1">\t\tPAN Card\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<font color='#A500FF'>GET</font></string>
+    <string name="get_2">\t\tVehical Registration\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<font color='#A500FF'>GET</font></string>
+    <string name="get_3">\t\tDriving License\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<font color='#A500FF'>GET</font></string>
+
+
 </resources>
