@@ -1,6 +1,7 @@
 # AndroidDevelopers-2021
 GIT Commands to be used by all
 
+
 A) Install GIT and GITFlow on your system
 
 B) Follow instructions to push your work on the repository. 
@@ -24,3 +25,9 @@ You would get latest changes in your branch and you can start workiing on your g
 When you all get blank project just change the SDK path given at local.properties to your own SDK path.
 
 If you are having issues no worry keep working on your forked repository , and then let me know your repository name where you have completed the task.
+
+ASSIGNMENT
+This was my task
+![digiLocker](https://user-images.githubusercontent.com/66066206/114307674-5dbd7480-9afe-11eb-9f19-caeddc708ad4.PNG)
+
+
